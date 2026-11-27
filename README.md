@@ -24,7 +24,3 @@ C++과 DirectX 11을 주력으로, 프로젝트마다 다른 시스템을 만들
 | [**Gunfire Reborn 모작**](https://shkim-33.github.io/cpp-portfolio/#gf) | 2026.01–04 · 개인 | C++20 · DX11 · HLSL | 레벨 에디터, 보스 패턴, OBB 충돌, 히트스캔, 그림자 |
 
 <sub>그 밖에 Cult of the Lamb 모작(DX9, 4인), Skul 모작(DX11, 개인)은 [사이트](https://shkim-33.github.io/cpp-portfolio/#etc)에 정리했습니다.</sub>
-
-### Contact
-
-📧 ksh66020@gmail.com
