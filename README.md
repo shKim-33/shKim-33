@@ -8,11 +8,7 @@
 
 C++과 DirectX 11을 주력으로, 프로젝트마다 다른 시스템을 만들고 새 기술을 더해 왔습니다.
 
-[**포트폴리오 사이트 →**](https://shkim-33.github.io)
-&nbsp;·&nbsp;
-[구현과 문제 해결](https://shkim-33.github.io/cpp-portfolio/)
-&nbsp;·&nbsp;
-[AI 협업 방식](https://shkim-33.github.io/ai-portfolio/)
+<a href="https://shkim-33.github.io/cpp-portfolio/"><img src="./assets/btn_cpp.png" width="49%" alt="구현과 문제 해결 →"></a> <a href="https://shkim-33.github.io/ai-portfolio/"><img src="./assets/btn_ai.png" width="49%" alt="AI 협업 방식 →"></a>
 
 </div>
 
